@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap');
+
+body{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #464646;
+    font-family: Anton;
+}
+
+.container{
+    width: 500px;
+    background-color: #eee;
+    margin-top: 15%;
+    min-height: 200px;
+    padding: 35px;
+}
+
+.container #author{
+    font-family: abel;
+}
+
+.btn.btn-primary{
+    background-color: rgb(156, 19, 65);
+}
